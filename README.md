@@ -1,2 +1,11 @@
-# PF-Lab-03-25k-0589
-Myself Kuldeep Kumar | CS Student At Fast University | Learning C Programming Language | To learn about problem solving &amp; Algorithms | To work on projects to improve my coding skills
+#PF-Lab-03-Task
+###Work i have to do right now:
+1. pf task
+2. ict quiz
+3. ethics quiz
+4. icp assignment
+###work i have to do after that:
+- pf assignment
+- AP assignment
+- calculas quiz
+***and then i have to ready for midterms***
